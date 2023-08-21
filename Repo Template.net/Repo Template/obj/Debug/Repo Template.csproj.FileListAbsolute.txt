@@ -1,0 +1,11 @@
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\bin\Debug\Repo Template.dll
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\bin\Debug\Repo Template.pdb
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\obj\Debug\Repo Template.csproj.AssemblyReference.cache
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\obj\Debug\Repo Template.csproj.CoreCompileInputs.cache
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\obj\Debug\Repo Template.dll
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\obj\Debug\Repo Template.pdb
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\bin\Debug\CalloutAPI.net.dll
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\bin\Debug\FivePD.net.dll
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\bin\Debug\CitizenFX.Core.dll
+C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Callout-Repo-Template\Repo Template.net\Repo Template\obj\Debug\Repo Template.csproj.CopyComplete
