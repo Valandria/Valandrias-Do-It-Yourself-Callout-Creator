@@ -12,5 +12,24 @@ namespace Repo_Template
     [CalloutProperties("CalloutName", "Creator", "0.0.0")]
     public class CalloutName : Callout
     {
+        public CalloutName()
+        {
+
+        }
+
+        public async override Task OnAccept()
+        {
+
+        }
+
+        public async override void OnStart(Ped variable)
+        {
+
+        }
+
+        public override void OnCancelAfter()
+        {
+
+        }
     }
 }
