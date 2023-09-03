@@ -1,0 +1,33 @@
+{
+  "CalloutName-Department":
+  [
+    "",
+    "",
+    ""
+  ],
+
+  "CalloutName-Coordinates":
+  [
+    {
+      "X": ,
+      "Y": ,
+      "Z": ,
+      "IsNormalized": false,
+      "IsZero": false
+    }
+  ],
+
+  "CalloutName-Ped":
+  [
+    "",
+    "",
+    ""
+  ],
+
+  "CalloutName-Vehicles":
+  [
+    "",
+    "",
+    ""
+  ]
+}
